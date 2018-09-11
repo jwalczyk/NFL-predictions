@@ -1,0 +1,5 @@
+1444576045189	Copy compilation unit
+1444577669512	Rename local variable 'FFPTsPerGame'
+1445047369684	Rename field 'maxValues2012n2013'
+1445047381382	Rename field 'minValues2012n2013'
+1445047401725	Rename method 'calculateMinAndMax2012n2013'

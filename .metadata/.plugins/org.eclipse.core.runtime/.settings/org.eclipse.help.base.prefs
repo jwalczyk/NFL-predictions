@@ -1,0 +1,10 @@
+#Sun Nov 08 14:44:59 EST 2015
+remoteHelpICEnabled=true,false
+remoteHelpOn=true
+remoteHelpHost=pic.dhe.ibm.com,127.0.0.1
+remoteHelpPath=/infocenter/clmhelp/v4r0m3,/help
+remoteHelpName=Rational solution for Collaborative Lifecycle Management,Local
+remoteHelpPort=80,63650
+remoteHelpProtocol=http,http
+remoteHelpPreferred=true
+eclipse.preferences.version=1

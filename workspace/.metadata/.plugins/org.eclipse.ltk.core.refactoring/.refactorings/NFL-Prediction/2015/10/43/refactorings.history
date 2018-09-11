@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;nflPredictWR.java&apos; to &apos;NFL-Prediction/src/nflpredict.com&apos;&#x0A;- Original project: &apos;NFL-Prediction&apos;&#x0A;- Destination element: &apos;NFL-Prediction/src/nflpredict.com&apos;&#x0A;- Original element: &apos;nflpredict.com.nflPredictWR.java&apos;" description="Copy compilation unit" destination="/src&lt;nflpredict.com" element1="/src&lt;nflpredict.com{nflPredictWR.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1445204890167" units="1" version="1.0"/>
+</session>
